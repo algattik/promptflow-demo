@@ -6,6 +6,9 @@ You can seamlessly initiate your promptflow project development and start levera
 ## Use Github Codespaces
 Use codespaces to open promptflow repo, it will automatically build the dev containers environment and open promptflow with dev containers. You can just click: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/promptflow?quickstart=1)
 
+## Use Codeanywhere
+Use codeanywhere to open promptflow repo, it will automatically build the dev containers environment and open promptflow with dev containers. You can just click: [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/algattik-mve/promptflow-demo)
+
 ## Use local devcontainer
 Use vscode to open promptflow repo, and install vscode extension: Dev Containers and then open promptflow with dev containers. 
 ![devcontainer](./devcontainers.png)  
